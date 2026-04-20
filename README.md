@@ -15,8 +15,6 @@ Ontario Grocery Deals helps shoppers compare weekly flyer prices with historical
 
 ---
 
-## Live Demo
-
 - **Frontend:** https://grocery-deals-web.onrender.com
 - **Backend API:** https://grocery-deals-api-4ib5.onrender.com
 - **API Health Check:** https://grocery-deals-api-4ib5.onrender.com/health
