@@ -224,7 +224,7 @@ This makes it easier to decide what cleanup work matters instead of reviewing th
 
 ### Current Offers and Price History
 
-![Current Offers and Price History]current-offers-history.png)
+![Current Offers and Price History](current-offers-history.png)
 
 ### Price Check
 
