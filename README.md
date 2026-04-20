@@ -216,31 +216,31 @@ This makes it easier to decide what cleanup work matters instead of reviewing th
 
 ### Browse Products
 
-![Browse Products](screenshots/browse-products.png)
+![Browse Products](browse-products.png)
 
 ### Product Detail
 
-![Product Detail](screenshots/product-detail.png)
+![Product Detail](product-detail.png)
 
 ### Current Offers and Price History
 
-![Current Offers and Price History](screenshots/current-offers-history.png)
+![Current Offers and Price History]current-offers-history.png)
 
 ### Price Check
 
-![Price Check](screenshots/price-check.png)
+![Price Check](price-check.png)
 
 ### Admin Import
 
-![Admin Import](screenshots/admin-import.png)
+![Admin Import](admin-import.png)
 
 ### Region Coverage
 
-![Region Coverage](screenshots/region-coverage.png)
+![Region Coverage](region-coverage.png)
 
 ### Pending Review
 
-![Pending Review](screenshots/pending-review.png)
+![Pending Review](pending-review.png)
 
 ---
 
