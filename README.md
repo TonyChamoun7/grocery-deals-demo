@@ -212,7 +212,7 @@ This makes it easier to decide what cleanup work matters instead of reviewing th
 
 ### Overview
 
-![Overview](screenshots/overview.png)
+![Overview](overview.png)
 
 ### Browse Products
 
